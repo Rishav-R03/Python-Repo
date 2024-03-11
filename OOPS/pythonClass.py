@@ -1,7 +1,7 @@
 class dog:
-    att1 = "mammal" # create instance of 
+    att1 = "mammal" # this class attribute is shared by instance of class 
 
-    def __init__(self,name):
+    def __init__(self,name):  # init is a special method (constructor)
         self.name = name
 
 Rodger = dog("Rodger")
