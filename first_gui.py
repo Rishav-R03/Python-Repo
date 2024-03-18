@@ -1,3 +1,4 @@
-picture = [
-    [0,0,0,1,0,0,0],
-]
+import patoolib
+import os
+
+os.chdir("")
